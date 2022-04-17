@@ -1,5 +1,6 @@
-# Repositorio do Desafio de Projeto sobre GIT/Github
-Desafio da DIO sobre GIT/Github
+# Desafio de Projeto sobre GIT/Github
+Repositório criado para o desafio de projeto
+
 
 ## Linka Úteis
 [Sintaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/)
